@@ -1,7 +1,6 @@
 - 👋 Hello, My Name is Adrian J. Matos
 - 👀 I’m interested in becoming a fullstack developer and exploring this field to learn and grow through its vast different paths. 
-- 🌱 I’m currently learning HTML/CSS/Python/React
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning HTML/CSS/Python/React/JavaScript
 - 📫 I can be reach via personal email at the moment, which is Amatos217@gmail.com
 
 <!---
